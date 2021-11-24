@@ -58,7 +58,7 @@ def geocode(filename):
 
     data.to_csv (r'lista.csv', index = False, header=True)
     
-if __name__ = "__main__":
+if __name__ == "__main__":
   geocode("AC_list.csv")
   
   
