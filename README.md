@@ -1,7 +1,13 @@
 # RESP-work
 
-Repository for the CRC Regional Ethnology of Scotland Project (RESP) inernship.
+Test repository for the CRC Regional Ethnology of Scotland Project (RESP) web-mapping internship.
 
-Contains:
-- a list of place names retrieved from RESP ethnological interviews ("????").
-- a Python script that loops through the place name list and returns geographic coordinates for each place name.
+
+(insert picture)
+
+
+
+## Contains:
+------------------------------------
+- a Python script ("Geocoding.py") that loops through any list of place names ("lista.csv") and returns a list of geographic coordinates for each place name ("AC_list.csv").
+- a png ("Bluemarker.png") used to test different web map designs.
