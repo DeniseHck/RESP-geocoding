@@ -1,5 +1,7 @@
 # RESP-work
 
-A repository for the CRC Regional Ethnology of Scotland Project (RESP).
+Repository for the CRC Regional Ethnology of Scotland Project (RESP) inernship.
 
-A script to geocode place names from ethnological interviews.
+Contains:
+- a list of place names retrieved from RESP ethnological interviews ("????").
+- a Python script that loops through the place name list and returns geographic coordinates for each place name.
